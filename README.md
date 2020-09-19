@@ -1,5 +1,10 @@
-### Hi, I'm Nikhil! 👋
+### Hi, I'm Nikhil!
 
-- 👯 I’m looking to collaborate on non-evil projects! (DMs open)
-- 📫 How to reach me: email or [telegram](https://t.me/xnjha)
-- 😄 Pronouns: he/him/his or they/them/their
+I'm an undergraduate student at [The University of California, Berkeley](https://berkeley.edu). I'm currently working on Kubernetes things at the Open Computing Facility ([@ocf](https://github.com/ocf)), building [Fedora](https://github.com/nikhiljha/pp-fedora-sdsetup) for [phones](https://github.com/nikhiljha/awesome-linux-mobile), and too many [other projects](https://nikhiljha.com/projects/) to count.
+
+Want to talk? hmu.
+
+- 📫 f"hi@{my_github_username}.com"
+- 💬 [@xnjha](https://t.me/xnjha)
+- 😄 he/him/his, they/them/their
+- 🐧 penguins are friends
