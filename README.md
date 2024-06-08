@@ -9,9 +9,3 @@ Want to talk? hmu.
 - 🐧 penguins are friends
 
 <div align="center">
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/nikhiljha/nikhiljha/assets/2773700/b3d9eebb-6b4c-46f4-9a6d-3ab244962873');]{x0000}$}
-
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-</div>
